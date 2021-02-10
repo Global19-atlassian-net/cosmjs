@@ -24,6 +24,7 @@ export {
   TxSearchParams,
   TxSearchRequest,
   ValidatorsRequest,
+  ValidatorsParams,
 } from "./requests";
 export {
   AbciInfoResponse,
